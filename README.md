@@ -45,7 +45,7 @@ filtrite example-list
 
 ...
 ```
-6. Link your filter list in the README, using this URL: `https://github.com/xarantolus/filtrite/releases/latest/download/{YOUR FILENAME}.dat`. Replace `{YOUR FILENAME}` with the filename of the `.dat` file.
+6. Link your filter list in the README, using this URL: `https://github.com/ananlk/filtrite/releases/latest/download/bromite-extended.dat`. Replace `{YOUR FILENAME}` with the filename of the `.dat` file.
 7. Create a pull request
 
 
